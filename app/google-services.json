@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555574463384",
+    "project_id": "chatsapp-b2baf",
+    "storage_bucket": "chatsapp-b2baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555574463384:android:63425a31aff6240eed39ed",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555574463384-ch3os5mu0brevf1579b329f0bc504cds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZSSUiFr5S6Xwmt2jVp_k-fpMZTI8Fq0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555574463384-ch3os5mu0brevf1579b329f0bc504cds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
